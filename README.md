@@ -9,6 +9,13 @@ A JavaScript plugin for snazzy background particle systems. Includes an optional
 
 [See a demo](https://jnicol.github.io/particleground)
 
+## Screenshot
+
+<img width="956" alt="Screenshot 2024-01-24 202403" src="https://github.com/draksham/ParticleGround-Portfolio/assets/123640464/087b29ae-811c-4919-b23f-6cb615c18162">
+
+
+
+
 ## Usage
     
     particleground(document.getElementById('your-element');
